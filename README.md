@@ -11,8 +11,8 @@ throughout the tournament.
 
 ## Live Dashboard Preview
 
-![Tournament Overview](screenshot_page1.png)
-![Team Deep Dive](screenshot_page2.png)
+![Tournament Overview](Screenshot%202026-06-15%20155956.png)
+![Team Deep Dive](Screenshot%202026-06-15%20160017.png)
 
 ## Key Features
 - **Live match results** — scores, goals, assists updated daily
