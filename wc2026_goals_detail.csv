@@ -1,0 +1,41 @@
+match_id,minute,text,team,scorer,assist
+760415,9',"Goal! Mexico 1, South Africa 0. Julián Quiñones (Mexico) right footed shot from the centre of the box to the centre of the goal. Assisted by Érik Lira.",Mexico,Julián Quiñones,Érik Lira
+760415,67',"Goal! Mexico 2, South Africa 0. Raúl Jiménez (Mexico) header from very close range to the bottom left corner. Assisted by Roberto Alvarado with a cross.",Mexico,Raúl Jiménez,Roberto Alvarado
+760414,59',"Goal! Korea Republic 0, Czechia 1. Ladislav Krejcí (Czechia) header from very close range to the bottom right corner. Assisted by Vladimír Coufal.",Czechia,Ladislav Krejcí,Vladimír Coufal
+760414,67',"Goal! Korea Republic 1, Czechia 1. Hwang In-Beom (Korea Republic) right footed shot from the centre of the box to the bottom right corner. Assisted by Lee Kang-In.",South Korea,Hwang In-Beom,Lee Kang-In
+760414,80',"Goal! Korea Republic 2, Czechia 1. Oh Hyeon-Gyu (Korea Republic) left footed shot from very close range to the bottom left corner. Assisted by Hwang In-Beom.",South Korea,Oh Hyeon-Gyu,Hwang In-Beom
+760416,21',"Goal! Canada 0, Bosnia and Herzegovina 1. Jovo Lukic (Bosnia and Herzegovina) header from very close range to the centre of the goal. Assisted by Sead Kolasinac with a headed pass following a corner.",Bosnia-Herzegovina,Jovo Lukic,Sead Kolasinac
+760416,78',"Goal! Canada 1, Bosnia and Herzegovina 1. Cyle Larin (Canada) right footed shot from the centre of the box to the bottom right corner. Assisted by Promise David.",Canada,Cyle Larin,Promise David
+760417,7',"Own Goal by Damián Bobadilla, Paraguay. USA 1, Paraguay 0.",United States,Damián Bobadilla (OG),None
+760417,31',"Goal! USA 2, Paraguay 0. Folarin Balogun (USA) right footed shot from the centre of the box to the bottom right corner. Assisted by Christian Pulisic.",United States,Folarin Balogun,Christian Pulisic
+760417,45'+5',"Goal! USA 3, Paraguay 0. Folarin Balogun (USA) left footed shot from the centre of the box to the top left corner. Assisted by Malik Tillman.",United States,Folarin Balogun,Malik Tillman
+760417,73',"Goal! USA 3, Paraguay 1. Mauricio (Paraguay) left footed shot from the centre of the box to the bottom right corner. Assisted by Julio Enciso following a set piece situation.",Paraguay,Mauricio,Julio Enciso
+760417,90'+8',"Goal! USA 4, Paraguay 1. Giovanni Reyna (USA) right footed shot from the centre of the box to the bottom left corner. Assisted by Alex Freeman.",United States,Giovanni Reyna,Alex Freeman
+760420,17',"Goal! Qatar 0, Switzerland 1. Breel Embolo (Switzerland) converts the penalty with a right footed shot to the bottom left corner.",Switzerland,Breel Embolo,None
+760420,90'+4',"Own Goal by Miro Muheim, Switzerland. Qatar 1, Switzerland 1.",Qatar,Miro Muheim (OG),None
+760419,21',"Goal! Brazil 0, Morocco 1. Ismael Saibari (Morocco) right footed shot from outside the box to the centre of the goal. Assisted by Brahim Díaz with a through ball following a fast break.",Morocco,Ismael Saibari,Brahim Díaz
+760419,32',"Goal! Brazil 1, Morocco 1. Vinícius Júnior (Brazil) right footed shot from the left side of the box to the top right corner. Assisted by Bruno Guimarães.",Brazil,Vinícius Júnior,Bruno Guimarães
+760418,28',"Goal! Haiti 0, Scotland 1. John McGinn (Scotland) left footed shot from the centre of the box to the high centre of the goal.",Scotland,John McGinn,None
+760421,27',"Goal! Australia 1, Türkiye 0. Nestory Irankunda (Australia) right footed shot from the centre of the box to the bottom left corner. Assisted by Paul Okon-Engstler.",Australia,Nestory Irankunda,Paul Okon-Engstler
+760421,75',"Goal! Australia 2, Türkiye 0. Connor Metcalfe (Australia) left footed shot from outside the box to the bottom right corner.",Australia,Connor Metcalfe,None
+760422,6',"Goal! Germany 1, Curaçao 0. Felix Nmecha (Germany) right footed shot from the centre of the box to the bottom right corner. Assisted by Florian Wirtz.",Germany,Felix Nmecha,Florian Wirtz
+760422,21',"Goal! Germany 1, Curaçao 1. Livano Comenencia (Curaçao) left footed shot from the centre of the box to the bottom left corner.",Curacao,Livano Comenencia,None
+760422,38',"Goal! Germany 2, Curaçao 1. Nico Schlotterbeck (Germany) header from very close range to the bottom left corner. Assisted by Nathaniel Brown with a cross following a corner.",Germany,Nico Schlotterbeck,Nathaniel Brown
+760422,45'+5',"Goal! Germany 3, Curaçao 1. Kai Havertz (Germany) converts the penalty with a left footed shot to the bottom left corner.",Germany,Kai Havertz,None
+760422,47',"Goal! Germany 4, Curaçao 1. Jamal Musiala (Germany) right footed shot from the right side of the box to the bottom left corner. Assisted by Joshua Kimmich with a through ball.",Germany,Jamal Musiala,Joshua Kimmich
+760422,68',"Goal! Germany 5, Curaçao 1. Nathaniel Brown (Germany) right footed shot from the centre of the box to the bottom right corner. Assisted by Deniz Undav.",Germany,Nathaniel Brown,Deniz Undav
+760422,78',"Goal! Germany 6, Curaçao 1. Deniz Undav (Germany) right footed shot from the centre of the box to the bottom left corner. Assisted by Joshua Kimmich.",Germany,Deniz Undav,Joshua Kimmich
+760422,88',"Goal! Germany 7, Curaçao 1. Kai Havertz (Germany) left footed shot from the centre of the box to the centre of the goal. Assisted by Deniz Undav with a through ball following a fast break.",Germany,Kai Havertz,Deniz Undav
+760425,51',"Goal! Netherlands 1, Japan 0. Virgil van Dijk (Netherlands) header from the centre of the box to the bottom right corner. Assisted by Ryan Gravenberch with a cross following a set piece situation.",Netherlands,Virgil van Dijk,Ryan Gravenberch
+760425,57',"Goal! Netherlands 1, Japan 1. Keito Nakamura (Japan) right footed shot from outside the box to the bottom left corner. Assisted by Takefusa Kubo.",Japan,Keito Nakamura,Takefusa Kubo
+760425,64',"Goal! Netherlands 2, Japan 1. Crysencio Summerville (Netherlands) left footed shot from the right side of the box to the bottom left corner. Assisted by Ryan Gravenberch.",Netherlands,Crysencio Summerville,Ryan Gravenberch
+760425,89',"Goal! Netherlands 2, Japan 2. Daichi Kamada (Japan) header from the centre of the box to the top right corner. Assisted by Koki Ogawa following a corner.",Japan,Daichi Kamada,Koki Ogawa
+760423,90',"Goal! Côte d'Ivoire 1, Ecuador 0. Amad Diallo (Côte d'Ivoire) left footed shot from the centre of the box to the bottom left corner. Assisted by Wilfried Singo.",Ivory Coast,Amad Diallo,Wilfried Singo
+760424,7',"Goal! Sweden 1, Tunisia 0. Yasin Ayari (Sweden) right footed shot from outside the box to the top right corner.",Sweden,Yasin Ayari,None
+760424,30',"Goal! Sweden 2, Tunisia 0. Alexander Isak (Sweden) right footed shot from outside the box to the bottom right corner. Assisted by Viktor Gyökeres following a fast break.",Sweden,Alexander Isak,Viktor Gyökeres
+760424,43',"Goal! Sweden 2, Tunisia 1. Omar Rekik (Tunisia) header from the centre of the box to the bottom left corner. Assisted by Hannibal Mejbri with a cross.",Tunisia,Omar Rekik,Hannibal Mejbri
+760424,59',"Goal! Sweden 3, Tunisia 1. Viktor Gyökeres (Sweden) right footed shot from the centre of the box to the bottom left corner. Assisted by Alexander Isak.",Sweden,Viktor Gyökeres,Alexander Isak
+760424,84',"Goal! Sweden 4, Tunisia 1. Mattias Svanberg (Sweden) right footed shot from the centre of the box to the centre of the goal. Assisted by Alexander Isak following a set piece situation.Goal awarded following VAR Review.",Sweden,Mattias Svanberg,Alexander Isak
+760424,90'+6',"Goal! Sweden 5, Tunisia 1. Yasin Ayari (Sweden) right footed shot from outside the box to the bottom left corner. Assisted by Lucas Bergvall.",Sweden,Yasin Ayari,Lucas Bergvall
+760426,19',"Goal! Belgium 0, Egypt 1. Emam Ashour (Egypt) right footed shot from outside the box to the bottom left corner. Assisted by Mohamed Salah.",Egypt,Emam Ashour,Mohamed Salah
+760426,66',"Own Goal by Mohamed Hany, Egypt. Belgium 1, Egypt 1.",Belgium,Mohamed Hany (OG),None

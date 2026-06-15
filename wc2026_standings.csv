@@ -1,0 +1,29 @@
+team,group,played,wins,draws,losses,goals_for,goals_against,goal_diff,points
+Mexico,A,1,1,0,0,2,0,2,3
+South Korea,A,1,1,0,0,2,1,1,3
+Czechia,A,1,0,0,1,1,2,-1,0
+South Africa,A,1,0,0,1,0,2,-2,0
+Bosnia-Herzegovina,B,1,0,1,0,1,1,0,1
+Canada,B,1,0,1,0,1,1,0,1
+Qatar,B,1,0,1,0,1,1,0,1
+Switzerland,B,1,0,1,0,1,1,0,1
+Scotland,C,1,1,0,0,1,0,1,3
+Brazil,C,1,0,1,0,1,1,0,1
+Morocco,C,1,0,1,0,1,1,0,1
+Haiti,C,1,0,0,1,0,1,-1,0
+United States,D,1,1,0,0,4,1,3,3
+Australia,D,1,1,0,0,2,0,2,3
+Turkey,D,1,0,0,1,0,2,-2,0
+Paraguay,D,1,0,0,1,1,4,-3,0
+Germany,E,1,1,0,0,7,1,6,3
+Ivory Coast,E,1,1,0,0,1,0,1,3
+Ecuador,E,1,0,0,1,0,1,-1,0
+Curacao,E,1,0,0,1,1,7,-6,0
+Sweden,F,1,1,0,0,5,1,4,3
+Japan,F,1,0,1,0,2,2,0,1
+Netherlands,F,1,0,1,0,2,2,0,1
+Tunisia,F,1,0,0,1,1,5,-4,0
+Belgium,G,1,0,1,0,1,1,0,1
+Egypt,G,1,0,1,0,1,1,0,1
+Cape Verde,H,1,0,1,0,0,0,0,1
+Spain,H,1,0,1,0,0,0,0,1

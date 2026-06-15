@@ -1,0 +1,6 @@
+match_day,match_day_label,date,total_goals,matches,avg_goals
+1,Match Day 1,2026-06-11,5,2,2.5
+2,Match Day 2,2026-06-12,7,2,3.5
+3,Match Day 3,2026-06-13,7,4,1.75
+4,Match Day 4,2026-06-14,19,4,4.75
+5,Match Day 5,2026-06-15,2,2,1.0

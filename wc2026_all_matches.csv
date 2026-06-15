@@ -1,0 +1,105 @@
+match_id,date,group,home_team,away_team,home_score,away_score,status,venue,city,result,total_goals
+760415,2026-06-11,A,Mexico,South Africa,2,0,Full Time,Estadio Banorte,Mexico City,Mexico Win,2
+760414,2026-06-11,A,South Korea,Czechia,2,1,Full Time,Estadio Akron,Guadalajara,South Korea Win,3
+760416,2026-06-12,B,Canada,Bosnia-Herzegovina,1,1,Full Time,BMO Field,Toronto,Draw,2
+760417,2026-06-12,D,United States,Paraguay,4,1,Full Time,SoFi Stadium,"Inglewood, California",United States Win,5
+760420,2026-06-13,B,Qatar,Switzerland,1,1,Full Time,Levi's Stadium,"Santa Clara, California",Draw,2
+760419,2026-06-13,C,Brazil,Morocco,1,1,Full Time,MetLife Stadium,"East Rutherford, New Jersey",Draw,2
+760418,2026-06-13,C,Haiti,Scotland,0,1,Full Time,Gillette Stadium,"Foxborough, Massachusetts",Scotland Win,1
+760421,2026-06-13,D,Australia,Turkey,2,0,Full Time,BC Place,Vancouver,Australia Win,2
+760422,2026-06-14,E,Germany,Curacao,7,1,Full Time,NRG Stadium,"Houston, Texas",Germany Win,8
+760425,2026-06-14,F,Netherlands,Japan,2,2,Full Time,AT&T Stadium,"Arlington, Texas",Draw,4
+760423,2026-06-14,E,Ivory Coast,Ecuador,1,0,Full Time,Lincoln Financial Field,"Philadelphia, Pennsylvania",Ivory Coast Win,1
+760424,2026-06-14,F,Sweden,Tunisia,5,1,Full Time,Estadio BBVA,Guadalupe,Sweden Win,6
+760427,2026-06-15,G,Iran,New Zealand,0,0,Scheduled,SoFi Stadium,"Inglewood, California",Scheduled,0
+760429,2026-06-15,H,Saudi Arabia,Uruguay,0,0,First Half,Hard Rock Stadium,"Miami Gardens, Florida",Draw,0
+760428,2026-06-15,H,Spain,Cape Verde,0,0,Full Time,Mercedes-Benz Stadium,"Atlanta, Georgia",Draw,0
+760426,2026-06-15,G,Belgium,Egypt,1,1,Full Time,Lumen Field,"Seattle, Washington",Draw,2
+760432,2026-06-16,I,France,Senegal,0,0,Scheduled,MetLife Stadium,"East Rutherford, New Jersey",Scheduled,0
+760430,2026-06-16,I,Iraq,Norway,0,0,Scheduled,Gillette Stadium,"Foxborough, Massachusetts",Scheduled,0
+760433,2026-06-16,J,Argentina,Algeria,0,0,Scheduled,GEHA Field at Arrowhead Stadium,"Kansas City, Missouri",Scheduled,0
+760431,2026-06-16,J,Austria,Jordan,0,0,Scheduled,Levi's Stadium,"Santa Clara, California",Scheduled,0
+760435,2026-06-17,K,Portugal,Congo DR,0,0,Scheduled,NRG Stadium,"Houston, Texas",Scheduled,0
+760437,2026-06-17,L,England,Croatia,0,0,Scheduled,AT&T Stadium,"Arlington, Texas",Scheduled,0
+760434,2026-06-17,L,Ghana,Panama,0,0,Scheduled,BMO Field,Toronto,Scheduled,0
+760436,2026-06-17,K,Uzbekistan,Colombia,0,0,Scheduled,Estadio Banorte,Mexico City,Scheduled,0
+760441,2026-06-18,A,Mexico,South Korea,0,0,Scheduled,Estadio Akron,Guadalajara,Scheduled,0
+760440,2026-06-18,B,Canada,Qatar,0,0,Scheduled,BC Place,Vancouver,Scheduled,0
+760438,2026-06-18,A,Czechia,South Africa,0,0,Scheduled,Mercedes-Benz Stadium,"Atlanta, Georgia",Scheduled,0
+760439,2026-06-18,B,Switzerland,Bosnia-Herzegovina,0,0,Scheduled,SoFi Stadium,"Inglewood, California",Scheduled,0
+760442,2026-06-19,D,United States,Australia,0,0,Scheduled,Lumen Field,"Seattle, Washington",Scheduled,0
+760445,2026-06-19,C,Scotland,Morocco,0,0,Scheduled,Gillette Stadium,"Foxborough, Massachusetts",Scheduled,0
+760444,2026-06-19,C,Brazil,Haiti,0,0,Scheduled,Lincoln Financial Field,"Philadelphia, Pennsylvania",Scheduled,0
+760443,2026-06-19,D,Turkey,Paraguay,0,0,Scheduled,Levi's Stadium,"Santa Clara, California",Scheduled,0
+760447,2026-06-20,F,Netherlands,Sweden,0,0,Scheduled,NRG Stadium,"Houston, Texas",Scheduled,0
+760448,2026-06-20,E,Germany,Ivory Coast,0,0,Scheduled,BMO Field,Toronto,Scheduled,0
+760446,2026-06-20,E,Ecuador,Curacao,0,0,Scheduled,GEHA Field at Arrowhead Stadium,"Kansas City, Missouri",Scheduled,0
+760449,2026-06-20,F,Tunisia,Japan,0,0,Scheduled,Estadio BBVA,Guadalupe,Scheduled,0
+760450,2026-06-21,H,Uruguay,Cape Verde,0,0,Scheduled,Hard Rock Stadium,"Miami Gardens, Florida",Scheduled,0
+760452,2026-06-21,G,New Zealand,Egypt,0,0,Scheduled,BC Place,Vancouver,Scheduled,0
+760451,2026-06-21,G,Belgium,Iran,0,0,Scheduled,SoFi Stadium,"Inglewood, California",Scheduled,0
+760453,2026-06-21,H,Spain,Saudi Arabia,0,0,Scheduled,Mercedes-Benz Stadium,"Atlanta, Georgia",Scheduled,0
+760456,2026-06-22,J,Argentina,Austria,0,0,Scheduled,AT&T Stadium,"Arlington, Texas",Scheduled,0
+760457,2026-06-22,I,France,Iraq,0,0,Scheduled,Lincoln Financial Field,"Philadelphia, Pennsylvania",Scheduled,0
+760454,2026-06-22,I,Norway,Senegal,0,0,Scheduled,MetLife Stadium,"East Rutherford, New Jersey",Scheduled,0
+760455,2026-06-22,J,Jordan,Algeria,0,0,Scheduled,Levi's Stadium,"Santa Clara, California",Scheduled,0
+760461,2026-06-23,K,Portugal,Uzbekistan,0,0,Scheduled,NRG Stadium,"Houston, Texas",Scheduled,0
+760458,2026-06-23,L,England,Ghana,0,0,Scheduled,Gillette Stadium,"Foxborough, Massachusetts",Scheduled,0
+760460,2026-06-23,L,Panama,Croatia,0,0,Scheduled,BMO Field,Toronto,Scheduled,0
+760459,2026-06-23,K,Colombia,Congo DR,0,0,Scheduled,Estadio Akron,Guadalajara,Scheduled,0
+760466,2026-06-24,A,South Africa,South Korea,0,0,Scheduled,Estadio BBVA,Guadalupe,Scheduled,0
+760467,2026-06-24,A,Czechia,Mexico,0,0,Scheduled,Estadio Banorte,Mexico City,Scheduled,0
+760465,2026-06-24,C,Scotland,Brazil,0,0,Scheduled,Hard Rock Stadium,"Miami Gardens, Florida",Scheduled,0
+760464,2026-06-24,C,Morocco,Haiti,0,0,Scheduled,Mercedes-Benz Stadium,"Atlanta, Georgia",Scheduled,0
+760463,2026-06-24,B,Switzerland,Canada,0,0,Scheduled,BC Place,Vancouver,Scheduled,0
+760462,2026-06-24,B,Bosnia-Herzegovina,Qatar,0,0,Scheduled,Lumen Field,"Seattle, Washington",Scheduled,0
+760473,2026-06-25,E,Curacao,Ivory Coast,0,0,Scheduled,Lincoln Financial Field,"Philadelphia, Pennsylvania",Scheduled,0
+760468,2026-06-25,E,Ecuador,Germany,0,0,Scheduled,MetLife Stadium,"East Rutherford, New Jersey",Scheduled,0
+760471,2026-06-25,F,Japan,Sweden,0,0,Scheduled,AT&T Stadium,"Arlington, Texas",Scheduled,0
+760472,2026-06-25,F,Tunisia,Netherlands,0,0,Scheduled,GEHA Field at Arrowhead Stadium,"Kansas City, Missouri",Scheduled,0
+760469,2026-06-25,D,Paraguay,Australia,0,0,Scheduled,Levi's Stadium,"Santa Clara, California",Scheduled,0
+760470,2026-06-25,D,Turkey,United States,0,0,Scheduled,SoFi Stadium,"Inglewood, California",Scheduled,0
+760477,2026-06-26,G,New Zealand,Belgium,0,0,Scheduled,BC Place,Vancouver,Scheduled,0
+760479,2026-06-26,H,Uruguay,Spain,0,0,Scheduled,Estadio Akron,Guadalajara,Scheduled,0
+760476,2026-06-26,G,Egypt,Iran,0,0,Scheduled,Lumen Field,"Seattle, Washington",Scheduled,0
+760474,2026-06-26,I,Senegal,Iraq,0,0,Scheduled,BMO Field,Toronto,Scheduled,0
+760475,2026-06-26,I,Norway,France,0,0,Scheduled,Gillette Stadium,"Foxborough, Massachusetts",Scheduled,0
+760478,2026-06-26,H,Cape Verde,Saudi Arabia,0,0,Scheduled,NRG Stadium,"Houston, Texas",Scheduled,0
+760480,2026-06-27,L,Croatia,Ghana,0,0,Scheduled,Lincoln Financial Field,"Philadelphia, Pennsylvania",Scheduled,0
+760485,2026-06-27,L,Panama,England,0,0,Scheduled,MetLife Stadium,"East Rutherford, New Jersey",Scheduled,0
+760481,2026-06-27,K,Colombia,Portugal,0,0,Scheduled,Hard Rock Stadium,"Miami Gardens, Florida",Scheduled,0
+760482,2026-06-27,K,Congo DR,Uzbekistan,0,0,Scheduled,Mercedes-Benz Stadium,"Atlanta, Georgia",Scheduled,0
+760484,2026-06-27,J,Algeria,Austria,0,0,Scheduled,GEHA Field at Arrowhead Stadium,"Kansas City, Missouri",Scheduled,0
+760483,2026-06-27,J,Jordan,Argentina,0,0,Scheduled,AT&T Stadium,"Arlington, Texas",Scheduled,0
+760486,2026-06-28,,Group A 2nd Place,Group B 2nd Place,0,0,Scheduled,SoFi Stadium,"Inglewood, California",Scheduled,0
+760487,2026-06-29,,Group C Winner,Group F 2nd Place,0,0,Scheduled,NRG Stadium,"Houston, Texas",Scheduled,0
+760489,2026-06-29,,Group E Winner,Third Place Group A/B/C/D/F,0,0,Scheduled,Gillette Stadium,"Foxborough, Massachusetts",Scheduled,0
+760488,2026-06-29,,Group F Winner,Group C 2nd Place,0,0,Scheduled,Estadio BBVA,Guadalupe,Scheduled,0
+760491,2026-06-30,,Group A Winner,Third Place Group C/E/F/H/I,0,0,Scheduled,Estadio Banorte,Mexico City,Scheduled,0
+760492,2026-06-30,,Group I Winner,Third Place Group C/D/F/G/H,0,0,Scheduled,MetLife Stadium,"East Rutherford, New Jersey",Scheduled,0
+760490,2026-06-30,,Group E 2nd Place,Group I 2nd Place,0,0,Scheduled,AT&T Stadium,"Arlington, Texas",Scheduled,0
+760495,2026-07-01,,Group L Winner,Third Place Group E/H/I/J/K,0,0,Scheduled,Mercedes-Benz Stadium,"Atlanta, Georgia",Scheduled,0
+760493,2026-07-01,,Group G Winner,Third Place Group A/E/H/I/J,0,0,Scheduled,Lumen Field,"Seattle, Washington",Scheduled,0
+760494,2026-07-01,,Group D Winner,Third Place Group B/E/F/I/J,0,0,Scheduled,Levi's Stadium,"Santa Clara, California",Scheduled,0
+760497,2026-07-02,,Group H Winner,Group J 2nd Place,0,0,Scheduled,SoFi Stadium,"Inglewood, California",Scheduled,0
+760496,2026-07-02,,Group K 2nd Place,Group L 2nd Place,0,0,Scheduled,BMO Field,Toronto,Scheduled,0
+760498,2026-07-02,,Group B Winner,Third Place Group E/F/G/I/J,0,0,Scheduled,BC Place,Vancouver,Scheduled,0
+760499,2026-07-03,,Group D 2nd Place,Group G 2nd Place,0,0,Scheduled,AT&T Stadium,"Arlington, Texas",Scheduled,0
+760500,2026-07-03,,Group J Winner,Group H 2nd Place,0,0,Scheduled,Hard Rock Stadium,"Miami Gardens, Florida",Scheduled,0
+760501,2026-07-03,,Group K Winner,Third Place Group D/E/I/J/L,0,0,Scheduled,GEHA Field at Arrowhead Stadium,"Kansas City, Missouri",Scheduled,0
+760502,2026-07-04,,Round of 32 1 Winner,Round of 32 3 Winner,0,0,Scheduled,NRG Stadium,"Houston, Texas",Scheduled,0
+760503,2026-07-04,,Round of 32 2 Winner,Round of 32 5 Winner,0,0,Scheduled,Lincoln Financial Field,"Philadelphia, Pennsylvania",Scheduled,0
+760505,2026-07-05,,Round of 32 7 Winner,Round of 32 8 Winner,0,0,Scheduled,Estadio Banorte,Mexico City,Scheduled,0
+760504,2026-07-05,,Round of 32 4 Winner,Round of 32 6 Winner,0,0,Scheduled,MetLife Stadium,"East Rutherford, New Jersey",Scheduled,0
+760506,2026-07-06,,Round of 32 11 Winner,Round of 32 12 Winner,0,0,Scheduled,AT&T Stadium,"Arlington, Texas",Scheduled,0
+760507,2026-07-06,,Round of 32 9 Winner,Round of 32 10 Winner,0,0,Scheduled,Lumen Field,"Seattle, Washington",Scheduled,0
+760509,2026-07-07,,Round of 32 14 Winner,Round of 32 16 Winner,0,0,Scheduled,Mercedes-Benz Stadium,"Atlanta, Georgia",Scheduled,0
+760508,2026-07-07,,Round of 32 13 Winner,Round of 32 15 Winner,0,0,Scheduled,BC Place,Vancouver,Scheduled,0
+760510,2026-07-09,,Round of 16 1 Winner,Round of 16 2 Winner,0,0,Scheduled,Gillette Stadium,"Foxborough, Massachusetts",Scheduled,0
+760511,2026-07-10,,Round of 16 5 Winner,Round of 16 6 Winner,0,0,Scheduled,SoFi Stadium,"Inglewood, California",Scheduled,0
+760512,2026-07-11,,Round of 16 3 Winner,Round of 16 4 Winner,0,0,Scheduled,Hard Rock Stadium,"Miami Gardens, Florida",Scheduled,0
+760513,2026-07-11,,Round of 16 7 Winner,Round of 16 8 Winner,0,0,Scheduled,GEHA Field at Arrowhead Stadium,"Kansas City, Missouri",Scheduled,0
+760514,2026-07-14,,Quarterfinal 1 Winner,Quarterfinal 2 Winner,0,0,Scheduled,AT&T Stadium,"Arlington, Texas",Scheduled,0
+760515,2026-07-15,,Quarterfinal 3 Winner,Quarterfinal 4 Winner,0,0,Scheduled,Mercedes-Benz Stadium,"Atlanta, Georgia",Scheduled,0
+760516,2026-07-18,,Semifinal 1 Loser,Semifinal 2 Loser,0,0,Scheduled,Hard Rock Stadium,"Miami Gardens, Florida",Scheduled,0
+760517,2026-07-19,,Semifinal 1 Winner,Semifinal 2 Winner,0,0,Scheduled,MetLife Stadium,"East Rutherford, New Jersey",Scheduled,0

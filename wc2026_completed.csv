@@ -1,0 +1,15 @@
+match_id,date,group,home_team,away_team,home_score,away_score,status,venue,city,result,total_goals
+760415,2026-06-11,A,Mexico,South Africa,2,0,Full Time,Estadio Banorte,Mexico City,Mexico Win,2
+760414,2026-06-11,A,South Korea,Czechia,2,1,Full Time,Estadio Akron,Guadalajara,South Korea Win,3
+760416,2026-06-12,B,Canada,Bosnia-Herzegovina,1,1,Full Time,BMO Field,Toronto,Draw,2
+760417,2026-06-12,D,United States,Paraguay,4,1,Full Time,SoFi Stadium,"Inglewood, California",United States Win,5
+760420,2026-06-13,B,Qatar,Switzerland,1,1,Full Time,Levi's Stadium,"Santa Clara, California",Draw,2
+760419,2026-06-13,C,Brazil,Morocco,1,1,Full Time,MetLife Stadium,"East Rutherford, New Jersey",Draw,2
+760418,2026-06-13,C,Haiti,Scotland,0,1,Full Time,Gillette Stadium,"Foxborough, Massachusetts",Scotland Win,1
+760421,2026-06-13,D,Australia,Turkey,2,0,Full Time,BC Place,Vancouver,Australia Win,2
+760422,2026-06-14,E,Germany,Curacao,7,1,Full Time,NRG Stadium,"Houston, Texas",Germany Win,8
+760425,2026-06-14,F,Netherlands,Japan,2,2,Full Time,AT&T Stadium,"Arlington, Texas",Draw,4
+760423,2026-06-14,E,Ivory Coast,Ecuador,1,0,Full Time,Lincoln Financial Field,"Philadelphia, Pennsylvania",Ivory Coast Win,1
+760424,2026-06-14,F,Sweden,Tunisia,5,1,Full Time,Estadio BBVA,Guadalupe,Sweden Win,6
+760428,2026-06-15,H,Spain,Cape Verde,0,0,Full Time,Mercedes-Benz Stadium,"Atlanta, Georgia",Draw,0
+760426,2026-06-15,G,Belgium,Egypt,1,1,Full Time,Lumen Field,"Seattle, Washington",Draw,2

@@ -1,0 +1,29 @@
+team,match_id,date,group,opponent,goals_scored,goals_conceded,result,result_type
+Mexico,760415,2026-06-11,A,South Africa,2,0,Mexico Win,Win
+South Africa,760415,2026-06-11,A,Mexico,0,2,Mexico Win,Loss
+South Korea,760414,2026-06-11,A,Czechia,2,1,South Korea Win,Win
+Czechia,760414,2026-06-11,A,South Korea,1,2,South Korea Win,Loss
+Canada,760416,2026-06-12,B,Bosnia-Herzegovina,1,1,Draw,Draw
+Bosnia-Herzegovina,760416,2026-06-12,B,Canada,1,1,Draw,Draw
+United States,760417,2026-06-12,D,Paraguay,4,1,United States Win,Win
+Paraguay,760417,2026-06-12,D,United States,1,4,United States Win,Loss
+Qatar,760420,2026-06-13,B,Switzerland,1,1,Draw,Draw
+Switzerland,760420,2026-06-13,B,Qatar,1,1,Draw,Draw
+Brazil,760419,2026-06-13,C,Morocco,1,1,Draw,Draw
+Morocco,760419,2026-06-13,C,Brazil,1,1,Draw,Draw
+Haiti,760418,2026-06-13,C,Scotland,0,1,Scotland Win,Loss
+Scotland,760418,2026-06-13,C,Haiti,1,0,Scotland Win,Win
+Australia,760421,2026-06-13,D,Turkey,2,0,Australia Win,Win
+Turkey,760421,2026-06-13,D,Australia,0,2,Australia Win,Loss
+Germany,760422,2026-06-14,E,Curacao,7,1,Germany Win,Win
+Curacao,760422,2026-06-14,E,Germany,1,7,Germany Win,Loss
+Netherlands,760425,2026-06-14,F,Japan,2,2,Draw,Draw
+Japan,760425,2026-06-14,F,Netherlands,2,2,Draw,Draw
+Ivory Coast,760423,2026-06-14,E,Ecuador,1,0,Ivory Coast Win,Win
+Ecuador,760423,2026-06-14,E,Ivory Coast,0,1,Ivory Coast Win,Loss
+Sweden,760424,2026-06-14,F,Tunisia,5,1,Sweden Win,Win
+Tunisia,760424,2026-06-14,F,Sweden,1,5,Sweden Win,Loss
+Spain,760428,2026-06-15,H,Cape Verde,0,0,Draw,Draw
+Cape Verde,760428,2026-06-15,H,Spain,0,0,Draw,Draw
+Belgium,760426,2026-06-15,G,Egypt,1,1,Draw,Draw
+Egypt,760426,2026-06-15,G,Belgium,1,1,Draw,Draw
