@@ -78,4 +78,18 @@ Built entirely in Python using the ESPN unofficial API:
 - Kai Havertz leads individual scorers with 2 goals
 - USA beat Paraguay 4-1 in their opening match
 - Folarin Balogun scored twice for the USA
-- South Africa received 2 red cards
+- South Africa received 2 red cards vs Mexico
+
+## Technical Highlights
+- MST timezone conversion for accurate match dates
+- VAR overturned red card filtering
+- Special character standardization (Curaçao → Curacao, Türkiye → Turkey)
+- Penalty goal extraction (ESPN logs as separate event type)
+- 12 DAX measures for dynamic filtering by nation
+
+## Skills Demonstrated
+Python · pandas · REST API · Power BI · DAX ·
+Data Pipeline · Sports Analytics · Live Data · ETL
+
+## Live Portfolio
+[View Portfolio](https://nikolaszeiner.github.io/NikolasZeiner/)
