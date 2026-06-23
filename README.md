@@ -1,9 +1,10 @@
 # 2026 FIFA World Cup Live Tracker 🏆⚽
 
-**Tools:** Python | Power BI | ESPN API  
+**Tools:** Python | Power BI | ESPN API
 **Data:** Live tournament data updated daily via ESPN API
 
 ## Overview
+
 A fully automated live tracking dashboard for the 2026 FIFA World Cup.
 Built a Python data pipeline that pulls real-time match data from the
 ESPN API and feeds into a 2-page Power BI dashboard updated daily
@@ -11,10 +12,11 @@ throughout the tournament.
 
 ## Live Dashboard Preview
 
-![Tournament Overview](Screenshot%202026-06-15%20155956.png)
-![Team Deep Dive](Screenshot%202026-06-15%20160017.png)
+![Tournament Overview](https://github.com/NikolasZeiner/WorldCup2026/raw/main/Screenshot%202026-06-15%20155956.png)
+![Team Deep Dive](https://github.com/NikolasZeiner/WorldCup2026/raw/main/Screenshot%202026-06-15%20160017.png)
 
 ## Key Features
+
 - **Live match results** — scores, goals, assists updated daily
 - **Goal scorers** — every goal with scorer, assist, and minute
 - **Discipline tracking** — yellow and red cards by team
@@ -27,6 +29,7 @@ throughout the tournament.
 ## Dashboard Pages
 
 ### Page 1 — Tournament Overview
+
 - 5 KPI cards: Matches Played, Total Goals, Avg Goals/Match, Red Cards, Yellow Cards
 - Nation slicer for filtering all visuals
 - Goal Scorers table with scorer, assist, minute, and team
@@ -37,6 +40,7 @@ throughout the tournament.
 - Group Stage Standings table
 
 ### Page 2 — Team Deep Dive
+
 - 6 KPI cards: Matches Played, Points, Goals Scored, Goals Conceded, Pass Completion %, Goals Per Game
 - Nation tile slicer
 - Shots vs Shots on Target clustered bar chart
@@ -45,13 +49,16 @@ throughout the tournament.
 - Results donut chart (Win/Draw/Loss)
 
 ## Data Pipeline
+
 Built entirely in Python using the ESPN unofficial API:
+
 - `site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard` — match results
 - `site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary` — detailed match stats
 
 ### Files Exported Daily (13 CSVs)
+
 | File | Description |
-|---|---|
+| --- | --- |
 | wc2026_all_matches.csv | All 72 tournament matches |
 | wc2026_completed.csv | Completed matches with results |
 | wc2026_goals_detail.csv | Individual goals with scorer and assist |
@@ -67,6 +74,7 @@ Built entirely in Python using the ESPN unofficial API:
 | wc2026_teams.csv | Teams that have played |
 
 ## How to Update
+
 1. Open `WorldCup2026_Tracker.ipynb` in Google Colab
 2. Run Script 1 — pulls all data and downloads 10 CSV files
 3. Run Script 2 — downloads remaining 3 CSV files
@@ -74,13 +82,18 @@ Built entirely in Python using the ESPN unofficial API:
 5. Open `WorldCup2026.pbix` in Power BI → click **Refresh**
 
 ## Key Findings So Far
-- Germany leads with 7 goals in one match vs Curacao
-- Kai Havertz leads individual scorers with 2 goals
-- USA beat Paraguay 4-1 in their opening match
-- Folarin Balogun scored twice for the USA
-- South Africa received 2 red cards vs Mexico
+
+*(Updated through 44 completed matches)*
+
+- **134 total goals** scored across 44 matches — averaging **3.05 goals per match**
+- **Germany leads the tournament** with 9 goals scored, including a **7-1 win over Curacao** — the biggest margin of victory so far (6 goals)
+- **Lionel Messi leads all individual scorers** with 5 goals
+- **Group stage is tight at the top:** Germany, United States, France, Argentina, and Norway are all unbeaten through 2 matches with 6 points each — Germany holds the best goal differential (+7)
+- **104 yellow cards and 8 red cards** issued so far
+- **South Africa has picked up the most red cards** of any team (2), both coming in their match vs. Mexico
 
 ## Technical Highlights
+
 - MST timezone conversion for accurate match dates
 - VAR overturned red card filtering
 - Special character standardization (Curaçao → Curacao, Türkiye → Turkey)
@@ -88,8 +101,10 @@ Built entirely in Python using the ESPN unofficial API:
 - 12 DAX measures for dynamic filtering by nation
 
 ## Skills Demonstrated
+
 Python · pandas · REST API · Power BI · DAX ·
 Data Pipeline · Sports Analytics · Live Data · ETL
 
 ## Live Portfolio
+
 [View Portfolio](https://nikolaszeiner.github.io/NikolasZeiner/)
